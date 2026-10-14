@@ -1,7 +1,7 @@
 ### Hi, I'm Alexandre 👋
 
 Backend-focused Full Stack Software Engineer based in Florianópolis, Brazil (UTC-3), open to remote work.
-I'm an electrical engineer by training with 5+ years building multi-tenant B2B SaaS platforms, serverless pipelines and engineering-automation software.
+I have 5+ years of experience building multi-tenant B2B SaaS platforms, serverless pipelines and engineering-automation software.
 
 - 🔧 **Mostly:** TypeScript, Node.js, NestJS, PostgreSQL/Prisma, MongoDB, AWS, Docker, Kubernetes
 - 🧱 **Architecture I like:** DDD, CQRS, Hexagonal Architecture, functional programming with fp-ts
